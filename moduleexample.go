@@ -1,4 +1,5 @@
 // moduleexample show example for use modules
+// new changes
 package moduleexample
 
 import "fmt"
